@@ -1,4 +1,4 @@
-# Intro to React
+# Intro to React v 18.0
 
 application to browse adoptable pets
 ![What is this](image.png)
