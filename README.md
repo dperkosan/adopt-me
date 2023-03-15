@@ -1,5 +1,6 @@
 # Intro to React v 18.0
 
+[Instructions](https://react-v8.holt.courses/)
 application to browse adoptable pets
 ![What is this](image.png)
 
